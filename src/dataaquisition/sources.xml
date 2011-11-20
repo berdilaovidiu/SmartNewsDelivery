@@ -1,0 +1,33 @@
+<sources>
+    <source>
+        <type>rss</type>
+        <name>piticigratis</name>
+        <description>blog about random stuff</description>
+        <category>fun</category>
+        <address>www.piticigratis.com/rss</address>
+    </source>
+
+    <source>
+        <type>rss</type>
+        <name>piticigratis</name>
+        <description>blog about random stuff</description>
+        <category>fun</category>
+        <address>www.piticigratis.com/rss</address>
+    </source>
+
+    <source>
+        <type>rss</type>
+        <name>piticigratis</name>
+        <description>blog about random stuff</description>
+        <category>fun</category>
+        <address>www.piticigratis.com/rss</address>
+    </source>
+
+    <source>
+        <type>rss</type>
+        <name>piticigratis</name>
+        <description>blog about random stuff</description>
+        <category>fun</category>
+        <address>www.piticigratis.com/rss</address>
+    </source>
+</sources>
